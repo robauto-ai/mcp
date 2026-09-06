@@ -1,6 +1,6 @@
 # robauto-mcp
 
-Documentation and contract for the hosted **Robauto Agent Ready Brand Interface MCP server** — a public,
+Documentation and contract for the hosted **Robauto MCP — Agent Intelligence & Brand Discovery Infrastructure** — a public,
 stateless Streamable HTTP endpoint that gives any AI agent a brand resolution
 layer: one canonical agent card per website, grounded answers and comparisons,
 support/dispute/legal contact routes and policies with a source page behind every
